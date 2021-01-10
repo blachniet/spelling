@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">new</emphasis>
+  <break time="400ms" />
+  They made new costumes.
+  <break time="600ms" />
+  <emphasis level="strong">new</emphasis>
+</speak>
+

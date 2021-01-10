@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">seat</emphasis>
+  <break time="400ms" />
+  Sit on this seat to watch the play.
+  <break time="600ms" />
+  <emphasis level="strong">seat</emphasis>
+</speak>
+

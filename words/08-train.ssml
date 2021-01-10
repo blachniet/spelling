@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">train</emphasis>
+  <break time="400ms" />
+  There was a train and tracks in the toy shop.
+  <break time="600ms" />
+  <emphasis level="strong">train</emphasis>
+</speak>
+
