@@ -17,6 +17,12 @@
 		.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
 			text-transform: none;
 		}
+		.container {
+			display: flex;
+		}
+		.col {
+			flex: 1;
+		}
 		</style>
 	</head>
 	<body>
@@ -29,6 +35,29 @@
 						Use the right and left arrow keys to navigate
 						through the slides.
 					</textarea>
+				</section>
+				<section>
+					<p>These are the words we will review</p>
+					<div class="container">
+						<div class="col">
+							<ol>
+								<li>were</li>
+								<li>would</li>
+								<li>one</li>
+								<li>could</li>
+								<li>some</li>
+							</ol>
+						</div>
+						<div class="col">
+							<ol start="6">
+								<li>new</li>
+								<li>seat</li>
+								<li>train</li>
+								<li>boat</li>
+								<li>keep</li>
+							</ol>
+						</div>
+					</div>
 				</section>
 				<section>
 					<h1>🔊</h1>
@@ -80,20 +109,29 @@
 					<audio data-autoplay data-src="words/10-keep.mp3"></audio>
 					<h2 class="fragment">keep</h2>
 				</section>
-				<section data-markdown>
-					<textarea data-template>
-						# The End
-						1. were
-						1. would
-						1. one
-						1. could
-						1. some
-						1. new
-						1. seat
-						1. train
-						1. boat
-						1. keep
-					</textarea>
+				<section>
+					<h1>The End</h1>
+					<div class="container">
+						<div class="col">
+							<ol>
+								<li>were</li>
+								<li>would</li>
+								<li>one</li>
+								<li>could</li>
+								<li>some</li>
+							</ol>
+						</div>
+						<div class="col">
+							<ol start="6">
+								<li>new</li>
+								<li>seat</li>
+								<li>train</li>
+								<li>boat</li>
+								<li>keep</li>
+							</ol>
+						</div>
+					</div>
+					<p><a href="#/0">Click here to go back to the beginning.</a></p>
 				</section>
 			</div>
 		</div>
