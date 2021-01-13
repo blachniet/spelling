@@ -10,6 +10,24 @@ Commit your changes to the `master` branch then run the `deploy.sh` script.
 ./deploy.sh
 ```
 
+### Create new word list
+
+Create a new Hugo page bundle.
+
+```bash
+hugo new <yyyyMMdd>
+```
+
+Add the `words` in the frontmatter.
+
+```yaml
+words:
+- val: bird
+  src: words/bird.mp3
+```
+
+Generate audio files for each word (see instructions in the section below).
+
 ### Generate audio file for a word
 
 [Install Google Cloud SDK][3]. Follow the [Quickstart: Using the command line][4]
