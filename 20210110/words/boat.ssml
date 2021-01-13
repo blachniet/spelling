@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">boat</emphasis>
+  <break time="400ms" />
+  There was a toy boat with a ripped sail, too.
+  <break time="600ms" />
+  <emphasis level="strong">boat</emphasis>
+</speak>
+

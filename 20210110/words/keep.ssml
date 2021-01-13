@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">keep</emphasis>
+  <break time="400ms" />
+  Who wants to keep the straw horse?
+  <break time="600ms" />
+  <emphasis level="strong">keep</emphasis>
+</speak>
+

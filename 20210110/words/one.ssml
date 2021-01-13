@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">one</emphasis>
+  <break time="400ms" />
+  Only one of them would win the contest.
+  <break time="600ms" />
+  <emphasis level="strong">one</emphasis>
+</speak>

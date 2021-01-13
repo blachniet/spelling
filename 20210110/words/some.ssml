@@ -1,0 +1,8 @@
+<speak>
+  <emphasis level="strong">some</emphasis>
+  <break time="400ms" />
+  The Superkids needed some actors for their play.
+  <break time="600ms" />
+  <emphasis level="strong">some</emphasis>
+</speak>
+
