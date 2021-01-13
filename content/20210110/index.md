@@ -1,7 +1,6 @@
 ---
 title: "2021 Jan 10"
 date: 2021-01-12T19:24:10-05:00
-type: reveal
 words:
 - val: were
   src: words/were.mp3
