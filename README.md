@@ -2,6 +2,14 @@
 
 ## Tasks
 
+### Deploy
+
+Commit your changes to the `master` branch then run the `deploy.sh` script.
+
+```bash
+./deploy.sh
+```
+
 ### Generate audio file for a word
 
 [Install Google Cloud SDK][3]. Follow the [Quickstart: Using the command line][4]
