@@ -13,10 +13,9 @@ Set the `GOOGLE_APPLICATION_CREDENTIALS` environment variable.
 export GOOGLE_APPLICATION_CREDENTIALS=<path-to-credentials-file>
 ```
 
-Create an `.ssml` file in the `words/` directory for the new word.
+Create an `.ssml` file for the new word.
 
 ```bash
-cd words
 cat << EOF > were.ssml
 <speak>
   <emphasis level="strong">were</emphasis>
@@ -31,6 +30,7 @@ EOF
 Run `bin/ssml2mp3.sh` to create an `.mp3`.
 
 ```bash
+# Creates were.mp3
 bin/ssml2mp3.sh were.ssml
 ```
 
