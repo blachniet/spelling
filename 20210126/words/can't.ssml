@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">can’t</emphasis>
+  <break time="400ms" />
+  The kids can’t wait for the eggs to hatch.
+  <break time="600ms" />
+  <emphasis level="strong">can’t</emphasis>
+</speak>

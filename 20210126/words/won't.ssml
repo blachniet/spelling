@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">won’t</emphasis>
+  <break time="400ms" />
+  The baby birds won’t be able to fly until they get bigger.
+  <break time="600ms" />
+  <emphasis level="strong">won’t</emphasis>
+</speak>

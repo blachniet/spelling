@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">isn’t</emphasis>
+  <break time="400ms" />
+  An attic isn’t the best place for a pigeon family to live.
+  <break time="600ms" />
+  <emphasis level="strong">isn’t</emphasis>
+</speak>
