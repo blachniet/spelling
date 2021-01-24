@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">don’t</emphasis>
+  <break time="400ms" />
+  Don’t try to pet a wild animal.
+  <break time="600ms" />
+  <emphasis level="strong">don’t</emphasis>
+</speak>

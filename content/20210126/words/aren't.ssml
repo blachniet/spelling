@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">aren’t</emphasis>
+  <break time="400ms" />
+  Pigeons aren’t pets.
+  <break time="600ms" />
+  <emphasis level="strong">aren’t</emphasis>
+</speak>

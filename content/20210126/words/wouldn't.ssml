@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">wouldn’t</emphasis>
+  <break time="400ms" />
+  Buster’s eggs wouldn’t hatch for 17 days.
+  <break time="600ms" />
+  <emphasis level="strong">wouldn’t</emphasis>
+</speak>
