@@ -18,13 +18,28 @@ Create a new Hugo page bundle.
 hugo new <yyyyMMdd>
 ```
 
-Add the `words` in the frontmatter.
+Build a text file that looks like this to specify the words and sample use.
 
-```yaml
-words:
-- val: bird
-  src: words/bird.mp3
+```plain
+1. down (The rain came down hard. down)
+2. too (There was too much rain for playing outside. too)
+3. work (The Superkids like to work on projects. work)
+4. many (The kids had many ideas. many)
+5. first (Sal wanted to play leapfrog first. first)
+6. try (Doc wanted to try all the games. try)
+7. jelly (Did the kids feed the dragon peanut butter and jelly? jelly)
+8. funny (Odd Socks is a funny name for a game. funny)
+9. say (The winning team will say, “Hooray!” say)
+10. play (What games will you play on the next rainy day? play)
 ```
+
+Generate the SSML files and frontmatter:
+
+```bash
+go run bin/main.go -input <input-file> -output content/<yyyyMMdd>
+```
+
+Add the frontmatter to the `content/<yyyyMMdd>`.
 
 Generate audio files for each word (see instructions in the section below).
 
