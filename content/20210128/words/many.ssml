@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">many</emphasis>
+  <break time="400ms" />
+  The kids had many ideas.
+  <break time="600ms" />
+  <emphasis level="strong">many</emphasis>
+</speak>

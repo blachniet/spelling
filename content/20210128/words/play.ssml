@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">play</emphasis>
+  <break time="400ms" />
+  What games will you play on the next rainy day?
+  <break time="600ms" />
+  <emphasis level="strong">play</emphasis>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">try</emphasis>
+  <break time="400ms" />
+  Doc wanted to try all the games.
+  <break time="600ms" />
+  <emphasis level="strong">try</emphasis>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">work</emphasis>
+  <break time="400ms" />
+  The Superkids like to work on projects.
+  <break time="600ms" />
+  <emphasis level="strong">work</emphasis>
+</speak>

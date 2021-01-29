@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">funny</emphasis>
+  <break time="400ms" />
+  Odd Socks is a funny name for a game.
+  <break time="600ms" />
+  <emphasis level="strong">funny</emphasis>
+</speak>
