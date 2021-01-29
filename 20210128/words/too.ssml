@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">too</emphasis>
+  <break time="400ms" />
+  There was too much rain for playing outside.
+  <break time="600ms" />
+  <emphasis level="strong">too</emphasis>
+</speak>

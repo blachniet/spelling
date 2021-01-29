@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">first</emphasis>
+  <break time="400ms" />
+  Sal wanted to play leapfrog first.
+  <break time="600ms" />
+  <emphasis level="strong">first</emphasis>
+</speak>

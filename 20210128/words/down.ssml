@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">down</emphasis>
+  <break time="400ms" />
+  The rain came down hard.
+  <break time="600ms" />
+  <emphasis level="strong">down</emphasis>
+</speak>

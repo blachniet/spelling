@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">say</emphasis>
+  <break time="400ms" />
+  The winning team will say, “Hooray!”
+  <break time="600ms" />
+  <emphasis level="strong">say</emphasis>
+</speak>

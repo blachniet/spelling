@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">jelly</emphasis>
+  <break time="400ms" />
+  Did the kids feed the dragon peanut butter and jelly?
+  <break time="600ms" />
+  <emphasis level="strong">jelly</emphasis>
+</speak>
