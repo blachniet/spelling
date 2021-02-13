@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">bird</emphasis>
+  <break time="400ms" />
+  Bird is the word.
+  <break time="600ms" />
+  <emphasis level="strong">bird</emphasis>
+</speak>

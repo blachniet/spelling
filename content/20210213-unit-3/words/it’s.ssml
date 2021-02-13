@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">it’s</emphasis>
+  <break time="400ms" />
+  It’s always fun at Happy Land.
+  <break time="600ms" />
+  <emphasis level="strong">it’s</emphasis>
+</speak>

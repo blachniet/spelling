@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">I’m</emphasis>
+  <break time="400ms" />
+  I’m sure Happy Land will make you smile.
+  <break time="600ms" />
+  <emphasis level="strong">I’m</emphasis>
+</speak>

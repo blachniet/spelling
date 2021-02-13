@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">we’ll</emphasis>
+  <break time="400ms" />
+  We’ll go there some day.
+  <break time="600ms" />
+  <emphasis level="strong">we’ll</emphasis>
+</speak>

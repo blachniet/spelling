@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">you’ll</emphasis>
+  <break time="400ms" />
+  You’ll enjoy all the rides.
+  <break time="600ms" />
+  <emphasis level="strong">you’ll</emphasis>
+</speak>
