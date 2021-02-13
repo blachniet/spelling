@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">open</emphasis>
+  <break time="400ms" />
+  The doors to the Animal Shed were open.
+  <break time="600ms" />
+  <emphasis level="strong">open</emphasis>
+</speak>

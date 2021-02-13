@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">we’re</emphasis>
+  <break time="400ms" />
+  We’re lucky Happy Land is nearby.
+  <break time="600ms" />
+  <emphasis level="strong">we’re</emphasis>
+</speak>

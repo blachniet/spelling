@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">silent</emphasis>
+  <break time="400ms" />
+  It was silent in the van after the Superkids fell asleep.
+  <break time="600ms" />
+  <emphasis level="strong">silent</emphasis>
+</speak>

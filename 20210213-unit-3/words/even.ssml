@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">even</emphasis>
+  <break time="400ms" />
+  Sal won an even better prize.
+  <break time="600ms" />
+  <emphasis level="strong">even</emphasis>
+</speak>

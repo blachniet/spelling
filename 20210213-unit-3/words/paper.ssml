@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">paper</emphasis>
+  <break time="400ms" />
+  The Superkids won paper hats in the bottle game.
+  <break time="600ms" />
+  <emphasis level="strong">paper</emphasis>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">music</emphasis>
+  <break time="400ms" />
+  A band played loud music by the Ferris wheel.
+  <break time="600ms" />
+  <emphasis level="strong">music</emphasis>
+</speak>
