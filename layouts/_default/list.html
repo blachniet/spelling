@@ -13,7 +13,12 @@
       {{ range .Pages }}
       <a href="{{.Permalink}}" class="p-4 m-4 border rounded border-black shadow text-center block">
         <h3 class="text-xl">{{ .Title }}</h3>
-        {{range $i, $w := .Params.words}}{{if ne $i 0}} • {{end}}{{.val}}{{end}}
+        <div>
+          {{range $i, $w := .Params.words}}{{if ne $i 0}} • {{end}}{{.val}}{{end}}
+        </div>
+        <div class="mt-2 text-sm text-gray-500 italic">
+          {{.Date.Format "Jan 2 2006"}}
+        </div>
       </a>
       {{ end }}
     </div>
