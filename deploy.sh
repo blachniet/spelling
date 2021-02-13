@@ -28,3 +28,5 @@ cd public && git add --all && git commit -m "Deploy $(git rev-parse --short HEAD
 
 echo "Pushing to github"
 git push --all
+
+echo "\033[0;32m\xE2\x9C\x94 Site deployed! \033[0m"
