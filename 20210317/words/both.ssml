@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">both</emphasis>
+  <break time="400ms" />
+  Golly and Icky were both stuck in the pipe during the storm.
+  <break time="600ms" />
+  <emphasis level="strong">both</emphasis>
+</speak>

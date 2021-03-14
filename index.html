@@ -15,51 +15,71 @@
 
 
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style type=text/css>
+      @media (min-width: 768px) {
+        .page {
+          flex-basis: calc(100%/4);
+          min-width: 0;
+        }
+      }
+    </style>
   </head>
   <body>
-    <div class="container mx-auto p-4">
+    <div class="mx-auto p-4">
       <h1 class="text-3xl text-center">Spelling Review</h1>
-      
-      <a href="https://blachniet.github.io/spelling/20210213-unit-3/" class="p-4 m-4 border rounded border-black shadow text-center block">
-        <h3 class="text-xl">Unit 3</h3>
-        <div>
-          it’s • we’ll • you’ll • we’re • I’m • paper • even • open • music • silent
-        </div>
-        <div class="mt-2 text-sm text-gray-500 italic">
-          Feb 13 2021
-        </div>
-      </a>
-      
-      <a href="https://blachniet.github.io/spelling/20210128/" class="p-4 m-4 border rounded border-black shadow text-center block">
-        <h3 class="text-xl">2021 Jan 28</h3>
-        <div>
-          down • too • work • many • first • try • jelly • funny • say • play
-        </div>
-        <div class="mt-2 text-sm text-gray-500 italic">
-          Jan 28 2021
-        </div>
-      </a>
-      
-      <a href="https://blachniet.github.io/spelling/20210126/" class="p-4 m-4 border rounded border-black shadow text-center block">
-        <h3 class="text-xl">2021 Jan 26</h3>
-        <div>
-          wouldn&#39;t • can&#39;t • weren&#39;t • aren&#39;t • haven&#39;t • didn&#39;t • don&#39;t • couldn&#39;t • isn&#39;t • won&#39;t
-        </div>
-        <div class="mt-2 text-sm text-gray-500 italic">
-          Jan 24 2021
-        </div>
-      </a>
-      
-      <a href="https://blachniet.github.io/spelling/20210110/" class="p-4 m-4 border rounded border-black shadow text-center block">
-        <h3 class="text-xl">2021 Jan 10</h3>
-        <div>
-          were • would • one • could • some • new • seat • train • boat • keep
-        </div>
-        <div class="mt-2 text-sm text-gray-500 italic">
-          Jan 12 2021
-        </div>
-      </a>
-      
+      <div class="flex flex-col md:flex-row md:flex-wrap justify-space-between">
+        
+        <a href="https://blachniet.github.io/spelling/20210317/" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">20210317</h3>
+          <div>
+            know • laugh • both • cold • again • does • far • turn • bird • corn
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            Mar 14 2021
+          </div>
+        </a>
+        
+        <a href="https://blachniet.github.io/spelling/20210213-unit-3/" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">Unit 3</h3>
+          <div>
+            it’s • we’ll • you’ll • we’re • I’m • paper • even • open • music • silent
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            Feb 13 2021
+          </div>
+        </a>
+        
+        <a href="https://blachniet.github.io/spelling/20210128/" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">2021 Jan 28</h3>
+          <div>
+            down • too • work • many • first • try • jelly • funny • say • play
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            Jan 28 2021
+          </div>
+        </a>
+        
+        <a href="https://blachniet.github.io/spelling/20210126/" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">2021 Jan 26</h3>
+          <div>
+            wouldn&#39;t • can&#39;t • weren&#39;t • aren&#39;t • haven&#39;t • didn&#39;t • don&#39;t • couldn&#39;t • isn&#39;t • won&#39;t
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            Jan 24 2021
+          </div>
+        </a>
+        
+        <a href="https://blachniet.github.io/spelling/20210110/" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">2021 Jan 10</h3>
+          <div>
+            were • would • one • could • some • new • seat • train • boat • keep
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            Jan 12 2021
+          </div>
+        </a>
+        
+      </div>
     </div>
   </body>
 </html>

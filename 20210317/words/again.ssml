@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">again</emphasis>
+  <break time="400ms" />
+  The sun came out again after the rain stopped.
+  <break time="600ms" />
+  <emphasis level="strong">again</emphasis>
+</speak>

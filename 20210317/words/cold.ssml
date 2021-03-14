@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">cold</emphasis>
+  <break time="400ms" />
+  They shivered because they were cold and scared.
+  <break time="600ms" />
+  <emphasis level="strong">cold</emphasis>
+</speak>
