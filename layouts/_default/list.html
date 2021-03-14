@@ -8,21 +8,31 @@
     {{ partial "header/icons.html" . }}
 
     <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+    <style type=text/css>
+      @media (min-width: 768px) {
+        .page {
+          flex-basis: calc(100%/4);
+          min-width: 0;
+        }
+      }
+    </style>
   </head>
   <body>
-    <div class="container mx-auto p-4">
+    <div class="mx-auto p-4">
       <h1 class="text-3xl text-center">Spelling Review</h1>
-      {{ range .Pages }}
-      <a href="{{.Permalink}}" class="p-4 m-4 border rounded border-black shadow text-center block">
-        <h3 class="text-xl">{{ .Title }}</h3>
-        <div>
-          {{range $i, $w := .Params.words}}{{if ne $i 0}} • {{end}}{{.val}}{{end}}
-        </div>
-        <div class="mt-2 text-sm text-gray-500 italic">
-          {{.Date.Format "Jan 2 2006"}}
-        </div>
-      </a>
-      {{ end }}
+      <div class="flex flex-col md:flex-row md:flex-wrap justify-space-between">
+        {{ range .Pages }}
+        <a href="{{.Permalink}}" class="page flex-1 p-4 m-4 border rounded border-black shadow text-center">
+          <h3 class="text-xl">{{ .Title }}</h3>
+          <div>
+            {{range $i, $w := .Params.words}}{{if ne $i 0}} • {{end}}{{.val}}{{end}}
+          </div>
+          <div class="mt-2 text-sm text-gray-500 italic">
+            {{.Date.Format "Jan 2 2006"}}
+          </div>
+        </a>
+        {{ end }}
+      </div>
     </div>
   </body>
 </html>
