@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">bird</emphasis>
+  <break time="400ms" />
+  Did you know a bird can fly when it rains?
+  <break time="600ms" />
+  <emphasis level="strong">bird</emphasis>
+</speak>

@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">far</emphasis>
+  <break time="400ms" />
+  Sometimes you can see lightning flash far away.
+  <break time="600ms" />
+  <emphasis level="strong">far</emphasis>
+</speak>

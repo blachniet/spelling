@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">does</emphasis>
+  <break time="400ms" />
+  Does thunder scare you?
+  <break time="600ms" />
+  <emphasis level="strong">does</emphasis>
+</speak>

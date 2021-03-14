@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">know</emphasis>
+  <break time="400ms" />
+  Tic didn’t know where Icky was hiding.
+  <break time="600ms" />
+  <emphasis level="strong">know</emphasis>
+</speak>

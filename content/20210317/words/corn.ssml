@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">corn</emphasis>
+  <break time="400ms" />
+  It’s good to have some rain so corn and other plants can grow.
+  <break time="600ms" />
+  <emphasis level="strong">corn</emphasis>
+</speak>

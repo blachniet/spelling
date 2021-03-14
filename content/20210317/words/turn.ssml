@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">turn</emphasis>
+  <break time="400ms" />
+  You should turn around and go home if a big storm comes.
+  <break time="600ms" />
+  <emphasis level="strong">turn</emphasis>
+</speak>
