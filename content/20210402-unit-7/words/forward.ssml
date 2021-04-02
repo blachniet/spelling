@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">forward</emphasis>
+  <break time="400ms" />
+  The dragon dived forward, head first.
+  <break time="600ms" />
+  <emphasis level="strong">forward</emphasis>
+</speak>

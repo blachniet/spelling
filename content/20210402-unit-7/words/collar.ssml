@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">collar</emphasis>
+  <break time="400ms" />
+  Doc gave Golly a new dog collar.
+  <break time="600ms" />
+  <emphasis level="strong">collar</emphasis>
+</speak>

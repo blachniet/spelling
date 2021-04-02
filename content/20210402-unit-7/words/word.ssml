@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">word</emphasis>
+  <break time="400ms" />
+  Cass laughed at Tic’s story, but Lily didn’t say a word.
+  <break time="600ms" />
+  <emphasis level="strong">word</emphasis>
+</speak>

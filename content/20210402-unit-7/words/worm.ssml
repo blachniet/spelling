@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">worm</emphasis>
+  <break time="400ms" />
+  Polly the parrot saw a worm wiggle in the dirt.
+  <break time="600ms" />
+  <emphasis level="strong">worm</emphasis>
+</speak>
