@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">world</emphasis>
+  <break time="400ms" />
+  Could Oswald’s dragon fly around the world?
+  <break time="600ms" />
+  <emphasis level="strong">world</emphasis>
+</speak>

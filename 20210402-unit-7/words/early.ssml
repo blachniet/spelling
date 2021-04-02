@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">early</emphasis>
+  <break time="400ms" />
+  The girls did not go to bed early at the slumber party.
+  <break time="600ms" />
+  <emphasis level="strong">early</emphasis>
+</speak>

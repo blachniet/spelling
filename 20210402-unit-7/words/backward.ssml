@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">backward</emphasis>
+  <break time="400ms" />
+  The dragon fell backward, tail first.
+  <break time="600ms" />
+  <emphasis level="strong">backward</emphasis>
+</speak>

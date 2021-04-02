@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">earth</emphasis>
+  <break time="400ms" />
+  The kids dug up the earth in their garden.
+  <break time="600ms" />
+  <emphasis level="strong">earth</emphasis>
+</speak>

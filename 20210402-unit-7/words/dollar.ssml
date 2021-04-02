@@ -1,0 +1,7 @@
+<speak>
+  <emphasis level="strong">dollar</emphasis>
+  <break time="400ms" />
+  Oswald spent a dollar on a tail for his dragon.
+  <break time="600ms" />
+  <emphasis level="strong">dollar</emphasis>
+</speak>

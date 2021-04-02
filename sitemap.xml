@@ -1,42 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://blachniet.github.io/spelling/20210402-unit-7/</loc>
+    <lastmod>2021-04-02T10:20:38-04:00</lastmod>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/20210317/</loc>
     <lastmod>2021-03-14T14:52:37-04:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/20210213-unit-3/</loc>
     <lastmod>2021-02-13T10:56:26-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/20210128/</loc>
     <lastmod>2021-01-28T21:32:23-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/20210126/</loc>
     <lastmod>2021-01-24T11:30:22-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/20210110/</loc>
     <lastmod>2021-01-12T19:24:10-05:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://blachniet.github.io/spelling/tags/</loc>
   </url>
-  
 </urlset>
